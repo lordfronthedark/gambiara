@@ -14,6 +14,6 @@ botoes.forEach (function(botao)) {
     curtiu=fause
    }
 
-
+-
    }
 }
